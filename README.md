@@ -56,11 +56,11 @@ Note:- Don't delete any of the audio files from your sdcard/internal storage or 
 To revert/to get back into normal termux mode use this commands
 ```
 ```
-cd T-LOAD
+$ cd T-LOAD
 ```
-ls
+$ ls
 ```
-bash rvt.sh
+$ bash rvt.sh
 ```
 ```
 
