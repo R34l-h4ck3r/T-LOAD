@@ -29,7 +29,7 @@ echo -e "\e[1m\e[31m\
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mR34l-h4ck3r \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31https://www.facebook.com/jongreyhat\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[32https://www.facebook.com/jongreyhat\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
